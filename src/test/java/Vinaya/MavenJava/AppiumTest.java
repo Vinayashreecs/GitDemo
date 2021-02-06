@@ -15,4 +15,10 @@ public class AppiumTest {
 		System.out.println("IOSApp");
 	}
 
+	@Test
+	public void IOSApp1() {
+
+		System.out.println("IOSApp");
+	}
+
 }
